@@ -28,7 +28,7 @@ import java.util.Objects;
 
 public class GoogleSearch {
 
-	private static final String SERP_API_KEY = "48d1bd8f7419387ef582b7f04149ac47ffe4501f4408dcfaeaa885f572d377f9";
+	private static final String SERP_API_KEY = "48d1bd8f7419387ef582b7f04149acxxxxxxxxxxxxxxxxxx";
 	private final SerpApiService service;
 
 	public GoogleSearch() {
